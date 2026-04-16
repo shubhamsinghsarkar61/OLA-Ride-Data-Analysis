@@ -73,4 +73,21 @@ This project demonstrates a complete **end-to-end data analytics pipeline** — 
 
 ---
 
+## 📸 Dashboard Preview  
+
+### Overall Dashboard
+![Overview](dashboard_overview.png)
+
+### Vehicle Analysis
+![Vehicle](vehicle_analysis.png)
+
+### Revenue Analysis
+![Revenue](revenue_analysis.png)
+
+### Cancellation Analysis
+![Cancellation](cancellation_analysis.png)
+
+### Ratings Analysis
+![Ratings](ratings_analysis.png)
+
 ⭐ If you found this project useful, feel free to explore and give it a star!
